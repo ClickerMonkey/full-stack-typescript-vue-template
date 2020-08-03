@@ -1,0 +1,55 @@
+/*----------------------------------------------------
+@File: Default Styles
+@Author: Emran Khan
+@URL:http://emran-khan.com
+
+This file contains the styling for the actual theme, this
+is the file you need to edit to change the look of the
+theme.
+
+This files contents are outlined below.
+
+	1. Variables
+	2. Prefix 
+	3. header
+  4. Banner
+  5. Min-container
+  6. Post
+  7. Popup
+  8. Notifications
+  9. Messages
+  10. Photos
+  11. Dashboard
+  12. Footer
+  13. Responsive
+
+
+----------------------------------------------------*/
+ 
+/*--------------------------------------------------*/
+@import "./variables";
+/*--------------------------------------------------*/
+@import "./prefix";
+/*--------------------------------------------------*/ 
+@import "./header";
+/*--------------------------------------------------*/ 
+@import "./banner";
+/*--------------------------------------------------*/ 
+@import "./min-container"; 
+/*--------------------------------------------------*/ 
+@import "./post"; 
+/*--------------------------------------------------*/ 
+@import "./popup"; 
+/*--------------------------------------------------*/  
+@import "./notifications"; 
+/*--------------------------------------------------*/ 
+@import "./messages"; 
+/*--------------------------------------------------*/ 
+@import "./photos"; 
+/*--------------------------------------------------*/ 
+@import "./dashboard"; 
+/*--------------------------------------------------*/
+@import "./footer"; 
+/*--------------------------------------------------*/ 
+@import "./responsive"; 
+/*--------------------------------------------------*/ 

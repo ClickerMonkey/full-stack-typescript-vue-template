@@ -1,0 +1,16 @@
+export declare const EPSILON: number;
+export declare const LIMIT_MIN: number;
+export declare const LIMIT_DEFAULT: number;
+export declare const OFFSET_MIN: number;
+export declare const OFFSET_DEFAULT: number;
+export declare const EMAIL_MAX: number;
+export declare const PASSWORD_MIN: number;
+export declare const PASSWORD_MAX: number;
+export declare const USER_NAME_MIN: number;
+export declare const USER_NAME_MAX: number;
+export declare const PUBLIC_NAME_MIN: number;
+export declare const PUBLIC_NAME_MAX: number;
+export declare const PRIVATE_NAME_MIN: number;
+export declare const PRIVATE_NAME_MAX: number;
+export declare const LOGIN_ID_MIN: number;
+export declare const LIMITS_DEFAULT: number;

@@ -1,0 +1,25 @@
+
+Error:
+[[error]]
+
+User Agent: 
+[[userAgent]]
+
+Path: [[path]]
+
+Method: [[method]]
+
+Host: [[host]]
+
+IP: [[ip]]
+
+User: [[user]]
+
+URL params: 
+[[params]]
+
+Query: 
+[[query]]
+
+Body: 
+[[body]]
